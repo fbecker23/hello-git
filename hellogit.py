@@ -1,2 +1,2 @@
 print('hello github!!!')
-print('que tal el curso?')
+print('chupala puto!!!!')
